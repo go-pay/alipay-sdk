@@ -1,16 +1,15 @@
-# ZFB-SDK
+# Alipay-SDK
 
 ### 支付宝 Golang 版本SDK
 
 [![Github](https://img.shields.io/github/followers/iGoogle-ink?label=Follow&style=social)](https://github.com/iGoogle-ink)
-[![Github](https://img.shields.io/github/forks/go-pay/zfb-sdk?label=Fork&style=social)](https://github.com/go-pay/zfb-sdk/fork)
+[![Github](https://img.shields.io/github/forks/go-pay/alipay-sdk?label=Fork&style=social)](https://github.com/go-pay/alipay-sdk/fork)
 
 [![Golang](https://img.shields.io/badge/golang-1.16-brightgreen.svg)](https://golang.google.cn)
-[![GoDoc](https://img.shields.io/badge/doc-pkg.go.dev-informational.svg)](https://pkg.go.dev/github.com/go-pay/zfb-sdk)
-[![Drone CI](https://cloud.drone.io/api/badges/go-pay/zfb-sdk/status.svg)](https://cloud.drone.io/go-pay/zfb-sdk)
-[![GitHub Release](https://img.shields.io/github/v/release/go-pay/zfb-sdk)](https://github.com/go-pay/zfb-sdk/releases)
-[![License](https://img.shields.io/github/license/go-pay/zfb-sdk)](https://www.apache.org/licenses/LICENSE-2.0)
-
+[![GoDoc](https://img.shields.io/badge/doc-pkg.go.dev-informational.svg)](https://pkg.go.dev/github.com/go-pay/alipay-sdk)
+[![Drone CI](https://cloud.drone.io/api/badges/go-pay/alipay-sdk/status.svg)](https://cloud.drone.io/go-pay/alipay-sdk)
+[![GitHub Release](https://img.shields.io/github/v/release/go-pay/alipay-sdk)](https://github.com/go-pay/alipay-sdk/releases)
+[![License](https://img.shields.io/github/license/go-pay/alipay-sdk)](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## License
 
